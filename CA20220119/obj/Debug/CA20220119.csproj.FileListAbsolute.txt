@@ -1,0 +1,7 @@
+C:\Users\diak\source\repos\CA20220119\CA20220119\obj\Debug\CA20220119.csproj.AssemblyReference.cache
+C:\Users\diak\source\repos\CA20220119\CA20220119\obj\Debug\CA20220119.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\CA20220119\CA20220119\bin\Debug\CA20220119.exe.config
+C:\Users\diak\source\repos\CA20220119\CA20220119\bin\Debug\CA20220119.exe
+C:\Users\diak\source\repos\CA20220119\CA20220119\bin\Debug\CA20220119.pdb
+C:\Users\diak\source\repos\CA20220119\CA20220119\obj\Debug\CA20220119.exe
+C:\Users\diak\source\repos\CA20220119\CA20220119\obj\Debug\CA20220119.pdb
